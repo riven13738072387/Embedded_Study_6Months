@@ -37,4 +37,5 @@ Git 用于代码管理，项目开发
 
 ## 今日总结
 
-今天完成了……
+今天完成了 clone、push、 fetch 、diff、 merge、 switch、 branch dev创建dev分支、 status
+init、add .、commit -m "初始化学习仓库" 的初次实操
